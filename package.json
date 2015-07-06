@@ -13,6 +13,8 @@
   },
   "keywords": [
     "guppy",
+    "git-guppy",
+    "guppy-hook",
     "post-applypatch"
   ],
   "author": "Kevin Lanni (https://github.com/therealklanni)",
